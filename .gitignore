@@ -38,3 +38,6 @@
 *.filters
 *.user
 
+# xmake files
+build/**
+.xmake/**
